@@ -224,10 +224,10 @@ body, html {
 @media screen and (max-width:480px) {
 	.equipBody{
 	 position: absolute;
-     top: 850px;
-     left: 2%; 
+     top: 810px;
+     left: 0%; 
 	 height: 200px;
-     width: 360px;
+     width: 375px;
 	 border-radius: 35px;
 	 background: rgba(87, 193, 177, 1);
 	 color:rgba(31, 61, 71, 1);
@@ -248,9 +248,9 @@ body, html {
 @media screen and (max-width:480px) {
 	.equipVision{
 	position: absolute;
-    top: 1058px;
-    left: 2%;
-    width: 360px;
+    top: 1018px;
+    left: 0%;
+    width: 375px;
     height: 150px; 
 	background-color:rgba(31, 61, 71, 1);
 	color:rgba(87, 193, 177, 1);
@@ -271,9 +271,9 @@ body, html {
 @media screen and (max-width:480px) {
 	.equipMission{
 	position: absolute;
-    top: 1215px;
-    left: 2%;
-    width: 360px;
+    top: 1175px;
+    left: 0%;
+    width: 375px;
     height: 100px; 
     background-color:rgba(87, 193, 177, 1);
 	color:rgba(31, 61, 71, 1);
@@ -289,6 +289,14 @@ body, html {
 			font-size:15px;
 			text-align: center;
   }
+}
+.locationHeading{
+	margin-left: 10%; 
+}
+@media screen and (max-width:480px) {
+.locationHeading{
+	margin-left:19%;
+}
 }
 /*ends here */
 
