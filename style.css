@@ -432,14 +432,15 @@ body, html {
 .headingText1{
 	color:white;
 	font-size:38px;
-
+	font-family:'Aileron';
 	font-weight:400;
 	text-transform:none!important;
+		src: local('Aileron' ), url('dist/fonts/Aileron.woff') format('woff');
 }
 .headingText2{
 	color:white;
 	font-size:28px;
-	font-family:'Aileron'
+	font-family:'Aileron';
 	font-weight:300;
 	text-transform:none!important;
 	src: local('Aileron' ), url('dist/fonts/Aileron.woff') format('woff');
