@@ -258,7 +258,6 @@ body, html {
 	.equipBody{
 	 position: absolute;
      top: 810px;
-     left: 5%; 
 	 height: 200px;
      width: 375px;
 	 border-radius: 35px;
@@ -284,7 +283,6 @@ body, html {
 	.equipVision{
 	position: absolute;
     top: 1018px;
-    left: 5%;
     width: 375px;
     height: 150px; 
 	background-color:rgba(31, 61, 71, 1);
@@ -309,7 +307,6 @@ body, html {
 	.equipMission{
 	position: absolute;
     top: 1175px;
-    left: 5%;
     width: 375px;
     height: 100px; 
     background-color:rgba(87, 193, 177, 1);
